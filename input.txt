@@ -1,0 +1,3 @@
+Bonjour, ceci est un test.
+Ce fichier sera converti en PDF.
+Merci d'avoir testé ce programme !
